@@ -63,7 +63,6 @@
 
         </LinearLayout>
 
-        <!-- Row 2: 7, 8, 9, - -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -127,7 +126,6 @@
 
         </LinearLayout>
 
-        <!-- Row 3: 4, 5, 6, + -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -191,7 +189,6 @@
 
         </LinearLayout>
 
-        <!-- Row 4: 1, 2, 3 -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -253,11 +250,8 @@
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
-            <!-- Equals button spans 2 rows -->
-
         </LinearLayout>
 
-        <!-- Row 5: 0, . -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -290,8 +284,6 @@
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:elevation="2dp" />
-
-            <!-- Empty space to align with equals button -->
 
             <Button
                 android:id="@+id/buttonEquals"
